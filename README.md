@@ -4,7 +4,7 @@ Commuting to work sustainably is hard. Currently there is no app or service with
 
 We beleive that this app and help cut carbon emissions in Australia as well as helping Australian citizens with getting around with the easiest, cost efficent and eco-freindly way.
 
-[Click here to view our Video](https://youtube.com/VIDEO-LINK-HERE)
+[Click here to view our Video](https://youtu.be/HgpQ1JcBF4s)
 
 ## About the App
 
