@@ -8,7 +8,7 @@ We beleive that this app and help cut carbon emissions in Australia as well as h
 
 ## About the App
 
-It is a purpose-built application allowing citizens to plan their travel with sustainability in mind. Citizens can enter their destination and they are presented with a list of sustainable travel options ranging from renting a bike to catching public transport, each with a corresponding star rating on how carbon efficient the route is. These ratings are calculated in real time based on all available data sources. (Please read data story for more info)
+It is a purpose-built application allowing citizens to plan their travel with sustainability in mind. Citizens can enter their destination and they are presented with a list of sustainable travel options ranging from renting a bike to catching public transport, each with a corresponding star rating on how carbon efficient the route is. These ratings are calculated in real time based on all available data sources. *(Please read data story for more info)*
 
 ### In-app Features 
 
@@ -20,6 +20,6 @@ Users can then view their carbon summary report every few weeks allowing them to
 
 ### Goverment Data Portal
 
-Our project also has a goverment portal which lets staff and govermental staff see live data from customers, sustainability ratings, live running services, revenue, carbon ratings, live graphs and much more. (Please read data story for more info)
+Our project also has a goverment portal which lets staff and govermental staff see live data from customers, sustainability ratings, live running services, revenue, carbon ratings, live graphs and much more. *(Please read data story for more info)*
 
 ![Portal Preview](https://raw.githubusercontent.com/urban-threshold/image-base/main/CleanRoute%20-%20Gov%20Portal%20Preview.png)
